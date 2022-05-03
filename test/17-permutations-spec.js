@@ -1,6 +1,6 @@
 const assert = require("assert");
 
-const permutations = require("../problems/17-bonus-permutations.js");
+const permutations = require("../problems/17-permutations.js");
 const deepIncludes = require('./util/deep-includes-order-matters');
 
 describe("permutations()", function () {

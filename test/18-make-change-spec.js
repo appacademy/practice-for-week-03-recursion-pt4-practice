@@ -1,6 +1,6 @@
 const assert = require("assert");
 
-const makeBetterChange = require("../problems/18-bonus-make-change.js");
+const makeBetterChange = require("../problems/18-make-change.js");
 
 function includesEqual(arr1, arr2) {
   if (arr1.length !== arr2.length) return false;
