@@ -1,6 +1,6 @@
 const assert = require("assert");
 
-const makeTree = require('../problems/16-make-tree');
+const makeTree = require('../problems/16-bonus-make-tree');
 
 describe("makeTree()", function () {
   it("with a simple example it should build a tree with the specified categories", function () {

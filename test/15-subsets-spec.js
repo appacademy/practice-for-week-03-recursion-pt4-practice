@@ -1,6 +1,6 @@
 const assert = require("assert");
 
-const subsets = require('../problems/15-subsets');
+const subsets = require('../problems/15-bonus-subsets');
 const deepIncludes = require('./util/deep-includes');
 
 describe("subsets()", function () {

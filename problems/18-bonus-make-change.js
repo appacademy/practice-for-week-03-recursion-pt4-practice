@@ -1,4 +1,6 @@
 /***********************************************************************
+ * BONUS PROBLEM
+************************************************************************
 Write a recursive function that will find the best way to make change from a
 given set of coin values for a given amount of money. The set of coin values
 should default to using pennies (1 cent), nickels (5 cents), dimes (10 cents),

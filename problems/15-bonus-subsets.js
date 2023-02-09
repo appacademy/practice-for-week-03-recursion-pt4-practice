@@ -1,4 +1,6 @@
 /***********************************************************************
+ * BONUS PROBLEM
+************************************************************************
 Write a function called `subsets` that will return all subsets of an array.
 
 Examples: 
